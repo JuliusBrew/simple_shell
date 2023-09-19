@@ -1,5 +1,3 @@
-vars.c
-
 #include "shell.h"
 
 /**
